@@ -1,0 +1,6 @@
+id=com.shannon.ims.fix.volna
+name=IMS Fix - Volna Crimea (Pixel 7a)
+version=v1.0
+versionCode=300
+author=infidenty
+description=Fix Shannon IMS binding for Volna MCC 250 MNC 60 on Pixel 7a. Force carrierId, carrier config via AOSP overlay, ImsResolver binding.
